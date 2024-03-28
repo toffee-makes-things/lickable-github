@@ -14,4 +14,7 @@ My Attempt At Making Modern Github.com And Enterprise Look Like Old Github
 TBD
 
 ## How im going to try to do this
-Using my extremely limited CSS knowlage i will try to retrofit elements from Github Enterprise Server 2.4 (October 13, 2015) to make a nice, old looking Github
+Using my extremely limited CSS knowlage i will try to retrofit elements from 
+* Github Enterprise Server 2.4 (October 13, 2015)
+* Github Enterprise Server 2.8.1 (2017-ish)
+to make a nice, old looking Github
