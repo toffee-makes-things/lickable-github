@@ -17,6 +17,36 @@
 
 /* Button Stuff */
 
+/* Selectors */
+
+.subnav-item.selected, .subnav-item[aria-selected=true], .subnav-item[aria-current]:not([aria-current=false]) {
+    z-index: 2;
+    color: #fff;
+    background-color: #4078c0;
+    border-color: #4078c0;
+
+}
+
+.subnav-item:first-child {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+
+.subnav-item:last-child {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.subnav-item {
+    position: relative;
+    float: left;
+    padding: 7px 14px;
+    font-weight: bold;
+    color: #666;
+    border: 1px solid #e5e5e5;
+}
+
 /* White Buttons */
 
 .btn {
@@ -60,6 +90,10 @@
 }
 
 .jXTShb {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.Button--secondary {
     background-image: linear-gradient(#fcfcfc, #eee);
 }
 
