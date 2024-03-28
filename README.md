@@ -6,9 +6,9 @@ My Attempt At Making Modern Github.com And Enterprise Look Like Old Github
 ## How To Install
 
 ### Github.com
-First if you haven't already, install Stylus
-
-Then Install The User Style From https://userstyles.world/style/15488/lickable-github-wip
+* First if you haven't already, install Stylus
+* Set Your GitHub to Light Mode, this does not work on dark
+* Then Install The User Style From https://userstyles.world/style/15488/lickable-github-wip
 
 ### Github Enterprise Server
 TBD
