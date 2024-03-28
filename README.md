@@ -1,7 +1,13 @@
 # lickable-github
 My Attempt At Making Modern Github.com And Enterprise Look Like Old Github
 
+
 ## How To Install
+
+### Github.com
+TBD
+
+### Github Enterprise Server
 TBD
 
 ## How im going to try to do this
