@@ -1,6 +1,42 @@
 @-moz-document url-prefix("https://github.com/") {
+/* Header Stuff */
+
+/* make the header smaller and less large */
+
 .AppHeader .AppHeader-globalBar {
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+/* make the header buttons lickable */
+
+.AppHeader .AppHeader-button {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+/* Button Templates
+
+For Some Reason GitHub's CSS is a bit silly so for some buttons you need to manually specify the colors/gradients as apposed to setting it globally, see templates.md 
+
+*/
+
+/* Button Stuff */
+
+.btn {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.hILMMl {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.pyyxt {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.gYvpXq {
+    background-color: #60b044;
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
 }
 }
