@@ -14,13 +14,10 @@
     background-image: linear-gradient(#fcfcfc, #eee);
 }
 
-/* Button Templates
-
-For Some Reason GitHub's CSS is a bit silly so for some buttons you need to manually specify the colors/gradients as apposed to setting it globally, see templates.md 
-
-*/
 
 /* Button Stuff */
+
+/* White Buttons */
 
 .btn {
     background-image: linear-gradient(#fcfcfc, #eee);
@@ -34,7 +31,65 @@ For Some Reason GitHub's CSS is a bit silly so for some buttons you need to manu
     background-image: linear-gradient(#fcfcfc, #eee);
 }
 
+.dTgfec {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.fmvlPZ {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.bDhqXD {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.fruYDV {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.jrLMah {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.cQeCID {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.dWnuhe {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+.jXTShb {
+    background-image: linear-gradient(#fcfcfc, #eee);
+}
+
+/* Green Buttons */
+
 .gYvpXq {
+    background-color: #60b044;
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
+}
+
+.hMiVVt {
+    background-color: #60b044;
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
+}
+
+.jfVyMH {
+    background-color: #60b044;
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
+}
+
+.Button--primary {
+    background-color: #60b044;
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
+}
+
+.btn-primary {
     background-color: #60b044;
     background-image: linear-gradient(#8add6d, #60b044);
     border-color: #5ca941;
